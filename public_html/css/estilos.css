@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 9, 2018, 7:11:02 PM
+    Author     : 00140502
+*/
+
+ #cabecera{
+    font-size: 50px;
+    font-family: Forte;
+    color: #FC6F50; 
+    text-align: center;
+}
+
+ul li {
+    list-style-type: none;
+    background: #FC6F50;
+    display: inline;
+    font-size:20px;
+    font-family: Forte;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#menu {
+    text-align: center;
+}
+
+#cuerpo {
+    text-align: center;
+    font-size: 18px;
+    font-family: Century Gothic;
+    
+}
+
+#pie {
+     text-align: center;
+     background: #FC6F50;
+    
+}
+
+a:hover { 
+    background-color: red;
+    font-stretch: semi-expanded;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active {
+    color: yellow;
+}
+
+form{
+    margin: auto;
+    text-align: left;
+    border: 2px;
+    padding: 25px;
+    border-radius: 5px;
+    background-color: #FC6F50;
+    width: 700px;
+    display: content;
+    align-content: center;
+}
+
+label{
+    width:150px;
+    text-align: left;
+    display: inline-block;
+}
+
+textArea{
+ width: 250px; 
+ vertical-align: middle;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Century Gothic;
+    color: black; 
+    text-align: center;
+}
+
+form div{
+    padding: 5px;
+}
+
